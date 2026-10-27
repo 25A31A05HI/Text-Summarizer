@@ -2,7 +2,7 @@
 
 **ADS Project | SDG 4: Quality Education**
 
-Verba is a Python-based application that summarizes text by selecting important sentences.
+Verba is a Python-based application that summarizes a given text.
 
 ## Live Demo
 [Open Text Summarizer](https://text-summarizer-g5rgtdmuk5jg5npvccvdq7.streamlit.app/)
